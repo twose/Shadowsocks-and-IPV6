@@ -6,7 +6,7 @@ Shadowsocks 和 IPV6,两者配合使用风味更佳.
 
 ### 使用方式
 
-clone本仓库 或 下载 [SShost.py](SShost.py)
+clone本仓库 或 下载 [SShost.py](https://raw.githubusercontent.com/twose/Shadowsocks-and-IPV6/master/SShosts.py)
 
 1. 修改代码中的 user_rule_file 为 你的 Shadowsocks user_rule(用户规则)文件路径 [默认是Shadowsocks-NG]
 2. 修改代码中的 hosts_file 为 你的 系统hosts文件路径[默认是 /etc/hosts]
